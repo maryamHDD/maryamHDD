@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi there, im maryam 👋
 
-<!--
-**maryamHDD/maryamHDD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student interested in Data & AI, software development, and intelligent systems.
 
-Here are some ideas to get you started:
+I enjoy building projects that allow me to understand how technology works and turn theoretical concepts into practical solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Technical Skills
+
+- **Programming:** Python, C, C++, Java, SQL
+- **Web Development:** HTML, CSS, JavaScript, PHP, Laravel
+- **Databases:** MySQL, Oracle
+- **Data & AI:** Python, Machine Learning
+- **Systems:** Linux, Shell Scripting, System Programming
+- **Cybersecurity:** Security fundamentals
+- **Tools:** Git, GitHub, VS Code
+
+## 🧠 Currently Exploring
+
+- Data Science
+- Machine Learning
+- Artificial Intelligence
+- Backend Development
+- Systems Programming
+- Cybersecurity
+
+## 🚀 Projects
+
+Coming soon...
+
+## 📫 Contact
+
+- LinkedIn: [Maryam Heddad](https://www.linkedin.com/in/maryam-heddad-0b7089266/)
+- Email: maryamheddad@gmail.com
